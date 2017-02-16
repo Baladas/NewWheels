@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Gilles\\AndroidStudioProjects\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_page.xml",
-        "source": "C:\\Users\\Gilles\\AndroidStudioProjects\\NewWheels\\app\\src\\main\\res\\menu\\main_page.xml"
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_page_drawer.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\menu\\activity_main_page_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\Joel\\Desktop\\Kouluhommat\\ECE\\PPE\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_page.xml",
-        "source": "C:\\Users\\Joel\\Desktop\\Kouluhommat\\ECE\\PPE\\NewWheels\\app\\src\\main\\res\\menu\\main_page.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gilles\\AndroidStudioProjects\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_page_drawer.xml",
-        "source": "C:\\Users\\Gilles\\AndroidStudioProjects\\NewWheels\\app\\src\\main\\res\\menu\\activity_main_page_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Joel\\Desktop\\Kouluhommat\\ECE\\PPE\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_page_drawer.xml",
-        "source": "C:\\Users\\Joel\\Desktop\\Kouluhommat\\ECE\\PPE\\NewWheels\\app\\src\\main\\res\\menu\\activity_main_page_drawer.xml"
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_page.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\menu\\main_page.xml"
     }
 ]
