@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a1270f4f6f5a10fdd18e01b8484cc6783bebcf2d">
+        sha1="1b9be82a4d676f8fa9af44968eaf1c6650e5e614">
         <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81cc3341ade8b258af87264afb65043497fc15be\classes.dex" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="331ef27c786ec82561e3cca0cd671ccd8327cbe5">
+        sha1="46ea01263f8aeab94119e4a2f24c2e22ff456f10">
         <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7445829a0148ddff4ac2ae4fc385ca5941bcf20b\classes.dex" />
     </item>
     <item

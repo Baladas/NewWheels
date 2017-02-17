@@ -6,6 +6,7 @@ package ppe.ece.fr.newwheels;
  */
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -35,6 +36,9 @@ public class maps extends Activity implements LocationListener {
             return;
         }
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
+
+        Intent intent = getIntent();
+
     }
 
     @Override
