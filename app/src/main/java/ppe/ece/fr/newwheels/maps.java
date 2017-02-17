@@ -2,6 +2,7 @@ package ppe.ece.fr.newwheels;
 
 /**
  * Created by Gilles on 16/02/2017.
+ * need to send a boolean to reinitialise speed count
  */
 
 import android.Manifest;
