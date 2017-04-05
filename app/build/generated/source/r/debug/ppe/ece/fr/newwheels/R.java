@@ -3951,11 +3951,11 @@ containing a value of this type.
         public static final int side_nav_bar=0x7f020181;
     }
     public static final class id {
-        public static final int Devices=0x7f0e0124;
-        public static final int Maps1=0x7f0e0121;
-        public static final int Score=0x7f0e0122;
-        public static final int Social=0x7f0e0123;
-        public static final int Stats=0x7f0e0125;
+        public static final int Devices=0x7f0e0123;
+        public static final int Maps1=0x7f0e0120;
+        public static final int Score=0x7f0e0121;
+        public static final int Social=0x7f0e0122;
+        public static final int Stats=0x7f0e0124;
         public static final int action0=0x7f0e0107;
         public static final int action_bar=0x7f0e00a9;
         public static final int action_bar_activity_content=0x7f0e0000;
@@ -3971,7 +3971,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0e00a6;
         public static final int action_mode_bar_stub=0x7f0e00a5;
         public static final int action_mode_close_button=0x7f0e008a;
-        public static final int action_settings=0x7f0e0126;
+        public static final int action_settings=0x7f0e0125;
         public static final int activity_chooser_view_content=0x7f0e008b;
         public static final int ad_container=0x7f0e00c4;
         public static final int ad_image_view=0x7f0e00c7;
@@ -4108,7 +4108,7 @@ containing a value of this type.
         public static final int live_stream_seek_bar=0x7f0e00cf;
         public static final int loading_indicator=0x7f0e00c8;
         public static final int logo_only=0x7f0e007d;
-        public static final int main=0x7f0e0120;
+        public static final int main=0x7f0e011f;
         public static final int map=0x7f0e00bd;
         public static final int match_global_nicknames=0x7f0e0066;
         public static final int match_parent=0x7f0e0076;
@@ -4224,8 +4224,7 @@ containing a value of this type.
         public static final int textView=0x7f0e00b8;
         public static final int textView2=0x7f0e011a;
         public static final int textView3=0x7f0e011b;
-        public static final int textView6=0x7f0e011e;
-        public static final int textView7=0x7f0e011f;
+        public static final int textView7=0x7f0e011e;
         public static final int text_empty_message=0x7f0e00df;
         public static final int text_input_password_toggle=0x7f0e00ec;
         public static final int text_list_view=0x7f0e00dd;

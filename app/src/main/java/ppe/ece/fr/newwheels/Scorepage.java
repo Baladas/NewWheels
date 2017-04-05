@@ -31,6 +31,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
+import java.sql.*;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -59,10 +60,15 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
     static String json = "";
 
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://sql11.freesqldatabase.com:3306/sql11167574";
+    /*static final String DB_URL = "jdbc:mysql://35.157.16.43:3306/sql11167574";
 
     static final String USER = "sql11167574";
-    static final String PASS = "7IadPR2iSf";
+    static final String PASS = "7IadPR2iSf";*/
+
+    static final String DB_URL = "jdbc:mysql://10.0.0.2:3306/newwheels";
+
+    static final String USER = "root";
+    static final String PASS = "";
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     @Override
@@ -86,7 +92,7 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
             conn = DriverManager.getConnection(DB_URL, USER, PASS);
             stmt = conn.createStatement();
 
-            String sql = "SELECT Amount FROM Fonds";
+            String sql = "SELECT Amount FROM fonds";
             ResultSet rs = stmt.executeQuery(sql);
             while (rs.next()) {
                 //Retrieve by column name

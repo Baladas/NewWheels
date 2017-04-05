@@ -90,7 +90,6 @@ MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Gilles\Docume
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.1\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.1\AndroidManifest.xml:26:5-19
 MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.1\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.1\AndroidManifest.xml:4:5-8:19
 MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.1\AndroidManifest.xml:18:5-19
 MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:22:5-20
@@ -124,6 +123,7 @@ MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\Gilles
 MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.1\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.1\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.2.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\AndroidManifest.xml:24:5-33:19
@@ -194,8 +194,6 @@ MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\Gilles\Do
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.1\AndroidManifest.xml:22:5-43
 MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.1\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.1\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.1\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.1\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:20:5-43
@@ -236,6 +234,8 @@ MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\Gilles
 MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.1\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.1\AndroidManifest.xml:23:5-43
 MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.2.1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\AndroidManifest.xml:17:5-43
@@ -298,24 +298,6 @@ category#android.intent.category.DEFAULT
 ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.1\AndroidManifest.xml:23:17-75
 	android:name
 		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.1\AndroidManifest.xml:23:27-73
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:9-189
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:129-162
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:163-187
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:69-128
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:19-68
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:9-184
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:64-87
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:88-182
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
 ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.1\AndroidManifest.xml:5:9-99
 	android:name
@@ -376,6 +358,24 @@ category#android.intent.category.BROWSABLE
 ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.1\AndroidManifest.xml:30:17-77
 	android:name
 		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.1\AndroidManifest.xml:30:27-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\AndroidManifest.xml:24:18-63
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\AndroidManifest.xml:19:9-172
 	android:exported

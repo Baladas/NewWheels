@@ -8,6 +8,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
 /**
  * Created by Gilles on 08/03/2017.
@@ -15,10 +16,14 @@ import android.view.MenuItem;
 
 public class Stats extends AppCompatActivity {
 
+    TextView textv;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.stats_page);
+
+        textv = (TextView) findViewById(R.id.textView7);
 
         BluetoothArduinoHelper mBlue = BluetoothArduinoHelper.getInstance("PNGFramework");
 
@@ -29,6 +34,8 @@ public class Stats extends AppCompatActivity {
         }
 
         String msg = mBlue.getLastMessage();
+
+        textv.setText(msg);
     }
 
     @Override

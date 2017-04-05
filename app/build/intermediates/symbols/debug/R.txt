@@ -1156,11 +1156,11 @@ int drawable quantum_ic_volume_off_white_36 0x7f02017e
 int drawable quantum_ic_volume_up_grey600_36 0x7f02017f
 int drawable quantum_ic_volume_up_white_36 0x7f020180
 int drawable side_nav_bar 0x7f020181
-int id Devices 0x7f0e0124
-int id Maps1 0x7f0e0121
-int id Score 0x7f0e0122
-int id Social 0x7f0e0123
-int id Stats 0x7f0e0125
+int id Devices 0x7f0e0123
+int id Maps1 0x7f0e0120
+int id Score 0x7f0e0121
+int id Social 0x7f0e0122
+int id Stats 0x7f0e0124
 int id action0 0x7f0e0107
 int id action_bar 0x7f0e00a9
 int id action_bar_activity_content 0x7f0e0000
@@ -1176,7 +1176,7 @@ int id action_menu_presenter 0x7f0e0003
 int id action_mode_bar 0x7f0e00a6
 int id action_mode_bar_stub 0x7f0e00a5
 int id action_mode_close_button 0x7f0e008a
-int id action_settings 0x7f0e0126
+int id action_settings 0x7f0e0125
 int id activity_chooser_view_content 0x7f0e008b
 int id ad_container 0x7f0e00c4
 int id ad_image_view 0x7f0e00c7
@@ -1313,7 +1313,7 @@ int id live_stream_indicator 0x7f0e00cd
 int id live_stream_seek_bar 0x7f0e00cf
 int id loading_indicator 0x7f0e00c8
 int id logo_only 0x7f0e007d
-int id main 0x7f0e0120
+int id main 0x7f0e011f
 int id map 0x7f0e00bd
 int id match_global_nicknames 0x7f0e0066
 int id match_parent 0x7f0e0076
@@ -1429,8 +1429,7 @@ int id textTitle 0x7f0e00d5
 int id textView 0x7f0e00b8
 int id textView2 0x7f0e011a
 int id textView3 0x7f0e011b
-int id textView6 0x7f0e011e
-int id textView7 0x7f0e011f
+int id textView7 0x7f0e011e
 int id text_empty_message 0x7f0e00df
 int id text_input_password_toggle 0x7f0e00ec
 int id text_list_view 0x7f0e00dd
