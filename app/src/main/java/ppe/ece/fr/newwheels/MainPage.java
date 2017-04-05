@@ -12,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.content.Intent;
 
 public class MainPage extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -82,8 +83,8 @@ public class MainPage extends AppCompatActivity
 
         if (id == R.id.nav_camera) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-
+        } else if (id == R.id.nav_view1) {
+            sendMaps(findViewById(R.id.drawer_layout));
         } else if (id == R.id.nav_slideshow) {
 
         } else if (id == R.id.nav_manage) {
@@ -97,5 +98,10 @@ public class MainPage extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    public void sendMaps(View view) {
+        Intent intent = new Intent(this, maps.class);
+        startActivity(intent);
     }
 }

@@ -2,9 +2,11 @@ package ppe.ece.fr.newwheels;
 
 /**
  * Created by Gilles on 16/02/2017.
+ * need to send a boolean to reinitialise speed count
  */
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -34,6 +36,9 @@ public class maps extends Activity implements LocationListener {
             return;
         }
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
+
+        Intent intent = getIntent();
+
     }
 
     @Override

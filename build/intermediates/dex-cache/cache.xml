@@ -21,24 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1e77c2bcbeeef40a72eb42b648f2468c2799af7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_dc6cbbbfb4bce004df8bdeed729e9ac4fd953a08\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -52,17 +34,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="88d3b58958aaabcef4b2e1e6595bc337cb644e85">
+        sha1="1b9be82a4d676f8fa9af44968eaf1c6650e5e614">
         <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81cc3341ade8b258af87264afb65043497fc15be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ff47a54a27303fef78881f59ba9da4dcf37898fb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,39 +66,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="182e119e2a018a2c7a3284b3091309616659cdde">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7445829a0148ddff4ac2ae4fc385ca5941bcf20b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_911ebd41c79c500ba7c47a824dfe1359da8fe4b1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_18ab0686404ce2f2751ce56e41f2d6273e0ee7bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ba85883e04235740d961905b8e705c04b1ca7dfd\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -171,6 +117,60 @@
         revision="25.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_93276725101e23ed9e854561df819dd5b64b7a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1e77c2bcbeeef40a72eb42b648f2468c2799af7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_dc6cbbbfb4bce004df8bdeed729e9ac4fd953a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ff47a54a27303fef78881f59ba9da4dcf37898fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46ea01263f8aeab94119e4a2f24c2e22ff456f10">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7445829a0148ddff4ac2ae4fc385ca5941bcf20b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_911ebd41c79c500ba7c47a824dfe1359da8fe4b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ba85883e04235740d961905b8e705c04b1ca7dfd\classes.dex" />
     </item>
 
 </items>

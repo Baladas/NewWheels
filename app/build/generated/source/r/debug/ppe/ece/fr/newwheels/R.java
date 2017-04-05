@@ -2671,12 +2671,12 @@ containing a value of this type.
         public static final int mini=0x7f0c0033;
         public static final int multiply=0x7f0c001b;
         public static final int nav_camera=0x7f0c008b;
-        public static final int nav_gallery=0x7f0c008c;
         public static final int nav_manage=0x7f0c008e;
         public static final int nav_send=0x7f0c0090;
         public static final int nav_share=0x7f0c008f;
         public static final int nav_slideshow=0x7f0c008d;
         public static final int nav_view=0x7f0c006e;
+        public static final int nav_view1=0x7f0c008c;
         public static final int navigation_header_container=0x7f0c0076;
         public static final int never=0x7f0c0039;
         public static final int none=0x7f0c0010;
