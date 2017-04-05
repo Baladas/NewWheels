@@ -1765,9 +1765,30 @@
                     "startLine": 259,
                     "startColumn": 4,
                     "startOffset": 18751,
-                    "endLine": 261,
+                    "endLine": 260,
+                    "endColumn": 8,
+                    "endOffset": 18876
+                },
+                "from": {
+                    "file": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\10.2.1\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 18881,
+                    "endLine": 263,
                     "endColumn": 12,
-                    "endOffset": 18940
+                    "endOffset": 19070
                 },
                 "from": {
                     "file": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml",

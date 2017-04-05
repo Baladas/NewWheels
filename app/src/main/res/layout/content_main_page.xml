@@ -13,8 +13,4 @@
     tools:context="ppe.ece.fr.newwheels.MainPage"
     tools:showIn="@layout/app_bar_main_page">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
 </RelativeLayout>
