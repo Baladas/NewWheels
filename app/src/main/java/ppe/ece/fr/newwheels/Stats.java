@@ -25,7 +25,7 @@ public class Stats extends AppCompatActivity {
 
         textv = (TextView) findViewById(R.id.textView7);
 
-        BluetoothArduinoHelper mBlue = BluetoothArduinoHelper.getInstance("PNGFramework");
+        BluetoothArduinoHelper mBlue = BluetoothArduinoHelper.getInstance(/*"PNGFramework"*/"BLUETOOTH HC-05");
 
         try {
             mBlue.Connect();
@@ -35,7 +35,9 @@ public class Stats extends AppCompatActivity {
 
         String msg = mBlue.getLastMessage();
 
-        textv.setText(msg);
+        if (msg != "") {
+            textv.setText(msg);
+        }
     }
 
     @Override

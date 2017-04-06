@@ -31,6 +31,8 @@ public class Social extends AppCompatActivity implements View.OnClickListener {
         setContentView(R.layout.social_page);
 
         findViewById(R.id.sign_in_button).setOnClickListener(this);
+        findViewById(R.id.button3).setOnClickListener(this);
+        findViewById(R.id.button4).setOnClickListener(this);
 
     }
 
@@ -49,7 +51,14 @@ public class Social extends AppCompatActivity implements View.OnClickListener {
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://plus.google.com/"));
                 startActivity(intent);
                 break;
-
+            case R.id.button3:
+                Intent intent3 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://twitter.com/"));
+                startActivity(intent3);
+                break;
+            case R.id.button4:
+                Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("fb://profile/"));
+                startActivity(intent4);
+                break;
         }
     }
 

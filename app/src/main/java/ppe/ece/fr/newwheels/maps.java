@@ -40,7 +40,9 @@ public class maps extends AppCompatActivity implements OnMapReadyCallback {
     @Override
     public void onMapReady(GoogleMap mMap) {
         // Add a marker in Sydney and move the camera
-        mMap.addMarker(new MarkerOptions().position(new LatLng(54.581765, -5.937637)).title("Marker"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(48.866667, 2.333333)).title("Marker"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(49.8666, 2.35)).title("Marker2"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(48.9, 2.22)).title("Marker3"));
 
 
         // Enabling MyLocation Layer of Google Map

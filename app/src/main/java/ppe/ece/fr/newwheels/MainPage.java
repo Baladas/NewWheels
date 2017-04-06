@@ -1,16 +1,39 @@
 package ppe.ece.fr.newwheels;
 
+import android.app.Activity;
+import android.content.ComponentName;
+import android.content.ContentResolver;
+import android.content.Context;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.MediaStore;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.content.Intent;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.Toast;
+
+import java.io.File;
 
 public class MainPage extends AppCompatActivity
-        implements NavigationView.OnNavigationItemSelectedListener {
+        implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener {
+
+    static final int TAKE_PICTURE = 1;
+
+    private Uri imageUri;
+
+    ImageView mImageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +45,15 @@ public class MainPage extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        mImageView = (ImageView) findViewById(R.id.mImage1);
+
+        findViewById(R.id.button5).setOnClickListener(this);
+
+        String path = "/DCIM/Camera/20170406_155146.jpg";
+        Bitmap image = BitmapFactory.decodeFile(path);
+        mImageView.setImageBitmap(image);
+
     }
 
     @Override
@@ -88,4 +120,28 @@ public class MainPage extends AppCompatActivity
         return true;
     }
 
+    public void takePhoto() {
+        Intent i = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+        try {
+            PackageManager pm = getPackageManager();
+
+            final ResolveInfo mInfo = pm.resolveActivity(i, 0);
+
+            Intent intent = new Intent();
+            intent.setComponent(new ComponentName(mInfo.activityInfo.packageName, mInfo.activityInfo.name));
+            intent.setAction(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_LAUNCHER);
+
+            startActivity(intent);
+        } catch (Exception e){ }
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.button5:
+                takePhoto();
+                break;
+        }
+    }
 }
