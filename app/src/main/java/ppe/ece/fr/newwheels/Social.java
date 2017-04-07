@@ -48,15 +48,15 @@ public class Social extends AppCompatActivity implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.sign_in_button:
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://plus.google.com/"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://plus.google.com/communities/111332393786080098061"));
                 startActivity(intent);
                 break;
             case R.id.button3:
-                Intent intent3 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://twitter.com/"));
+                Intent intent3 = new Intent(Intent.ACTION_VIEW, Uri.parse("https://mobile.twitter.com/?locale=fr"));
                 startActivity(intent3);
                 break;
             case R.id.button4:
-                Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("fb://profile/"));
+                Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("fb://facewebmodal/f?href=https://www.facebook.com/NewWheels-134205607115288/"));
                 startActivity(intent4);
                 break;
         }

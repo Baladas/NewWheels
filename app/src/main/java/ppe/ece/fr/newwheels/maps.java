@@ -5,14 +5,18 @@ package ppe.ece.fr.newwheels;
  * need to send a boolean to reinitialise speed count
  */
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.location.LocationManager;
 import android.os.Bundle;
 
+import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
@@ -25,6 +29,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class maps extends AppCompatActivity implements OnMapReadyCallback {
+
+    private LocationManager locationManager;
+
+    private GoogleMap mMap;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,11 +47,18 @@ public class maps extends AppCompatActivity implements OnMapReadyCallback {
     }
 
     @Override
-    public void onMapReady(GoogleMap mMap) {
-        // Add a marker in Sydney and move the camera
+    public void onMapReady(GoogleMap googleMap) {
+
+        mMap = googleMap;
+
+        // Add a marker and move the camera
         mMap.addMarker(new MarkerOptions().position(new LatLng(48.866667, 2.333333)).title("Marker"));
-        mMap.addMarker(new MarkerOptions().position(new LatLng(49.8666, 2.35)).title("Marker2"));
         mMap.addMarker(new MarkerOptions().position(new LatLng(48.9, 2.22)).title("Marker3"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(48.851884, 2.286361)).title("Location").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)));
+
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(48.8518837, 2.2863606), 11));
+
+        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
 
         // Enabling MyLocation Layer of Google Map
@@ -59,7 +75,6 @@ public class maps extends AppCompatActivity implements OnMapReadyCallback {
         mMap.setMyLocationEnabled(true);
 
 
-        mMap.setMyLocationEnabled(true);
         mMap.getUiSettings().setMyLocationButtonEnabled(true);
     }
 

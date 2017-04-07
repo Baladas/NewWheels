@@ -1,5 +1,6 @@
 package ppe.ece.fr.newwheels;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.database.SQLException;
 import android.os.Build;
@@ -14,6 +15,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import java.io.InputStream;
@@ -60,15 +62,15 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
     static String json = "";
 
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    /*static final String DB_URL = "jdbc:mysql://35.157.16.43:3306/sql11167574";
+    static final String DB_URL = "jdbc:mysql://35.157.16.43:3306/sql11167574";
 
     static final String USER = "sql11167574";
-    static final String PASS = "7IadPR2iSf";*/
+    static final String PASS = "7IadPR2iSf";
 
-    static final String DB_URL = "jdbc:mysql://10.0.0.2:3306/newwheels";
+    /*static final String DB_URL = "jdbc:mysql://10.0.0.2:3306/newwheels";
 
     static final String USER = "root";
-    static final String PASS = "";
+    static final String PASS = "";*/
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     @Override
@@ -76,12 +78,18 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
         super.onCreate(savedInstanceState);
         setContentView(R.layout.score_page);
 
+        ProgressBar progress2 = (ProgressBar) findViewById(R.id.progressBar2) ;
+
         tv = (TextView) findViewById(R.id.textView3);
-        Button b2 = (Button) findViewById(R.id.button2);
-        b2.setOnClickListener(this);
+        /*Button b2 = (Button) findViewById(R.id.button2);
+        b2.setOnClickListener(this);*/
 
         Connection conn = null;
         Statement stmt = null;
+
+
+        progress2.setProgress(1000/50);
+
 
 
         tv.setText("0");
@@ -101,7 +109,7 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
             }rs.close();
         }catch (ClassNotFoundException e) {
             e.printStackTrace();
-            tv.setText("2600");
+            tv.setText("1000 Points");
         }catch (java.sql.SQLException e) {
             e.printStackTrace();
             tv.setText("3");

@@ -23,7 +23,7 @@ public class Stats extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.stats_page);
 
-        textv = (TextView) findViewById(R.id.textView7);
+        textv = (TextView) findViewById(R.id.textView10);
 
         BluetoothArduinoHelper mBlue = BluetoothArduinoHelper.getInstance(/*"PNGFramework"*/"BLUETOOTH HC-05");
 

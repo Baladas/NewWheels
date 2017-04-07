@@ -50,9 +50,6 @@ public class MainPage extends AppCompatActivity
 
         findViewById(R.id.button5).setOnClickListener(this);
 
-        String path = "/DCIM/Camera/20170406_155146.jpg";
-        Bitmap image = BitmapFactory.decodeFile(path);
-        mImageView.setImageBitmap(image);
 
     }
 

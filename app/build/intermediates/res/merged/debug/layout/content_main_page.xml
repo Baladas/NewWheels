@@ -11,40 +11,35 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="ppe.ece.fr.newwheels.MainPage"
-    tools:showIn="@layout/app_bar_main_page">
+    tools:showIn="@layout/app_bar_main_page"
+    android:background="@color/colorMain">
 
     <Button
         android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="38dp"
-        android:text="Take photo"
-        android:layout_below="@+id/textView5"
-        android:layout_alignRight="@+id/textView5"
-        android:layout_alignEnd="@+id/textView5" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="32dp"
+        android:background="@color/cast_intro_overlay_button_background_color"
+        android:text="Take photo" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="45dp"
-        android:text="Welcome"
-        android:textSize="30sp"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="95dp"
-        android:layout_marginStart="95dp" />
+        android:layout_centerHorizontal="true"
+        android:text="Welcome"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="36sp" />
 
     <ImageView
         android:id="@+id/mImage1"
-        android:layout_width="100dp"
-        android:layout_height="200dp"
-        android:layout_alignLeft="@+id/button5"
-        android:layout_alignStart="@+id/button5"
-        android:layout_below="@+id/button5"
-        android:layout_marginLeft="11dp"
-        android:layout_marginStart="11dp"
-        android:layout_marginTop="42dp" />
+        android:layout_width="300dp"
+        android:layout_height="600dp"
+        android:src="@drawable/joelette"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
     
 </RelativeLayout>
