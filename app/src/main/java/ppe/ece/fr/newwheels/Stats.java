@@ -2,6 +2,8 @@ package ppe.ece.fr.newwheels;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.SystemClock;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -18,6 +20,10 @@ public class Stats extends AppCompatActivity {
 
     TextView textv;
 
+    String msg;
+
+    BluetoothArduinoHelper mBlue;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,7 +31,7 @@ public class Stats extends AppCompatActivity {
 
         textv = (TextView) findViewById(R.id.textView10);
 
-        BluetoothArduinoHelper mBlue = BluetoothArduinoHelper.getInstance(/*"PNGFramework"*/"BLUETOOTH HC-05");
+        mBlue = BluetoothArduinoHelper.getInstance(/*"PNGFramework"*/"BLUETOOTH HC-05");
 
         try {
             mBlue.Connect();
@@ -33,10 +39,27 @@ public class Stats extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        String msg = mBlue.getLastMessage();
+        Handler handler = new Handler();
+        SocketThread thread = new SocketThread(handler);
+        thread.start();
 
-        if (msg != "") {
-            textv.setText(msg);
+    }
+
+    class SocketThread extends Thread {
+        private final Handler mHandler;
+
+        SocketThread(Handler handler){
+            mHandler = handler;
+        }
+        @Override
+        public void run(){
+            msg = mBlue.getLastMessage();
+
+            if (msg != "") {
+                textv.setText(msg);
+            } else {
+                textv.setText("a");
+            }
         }
     }
 
