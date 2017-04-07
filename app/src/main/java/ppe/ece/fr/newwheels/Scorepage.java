@@ -56,7 +56,9 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
     private static final String TAG_MESSAGE = "message";
 
     TextView tv;
+    TextView tv2;
 
+    int cont=1;
     String textview = null;
     static JSONObject jObj ;
     static String json = "";
@@ -72,17 +74,20 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
     static final String USER = "root";
     static final String PASS = "";*/
 
+    ProgressBar progress2;
+
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.score_page);
 
-        ProgressBar progress2 = (ProgressBar) findViewById(R.id.progressBar2) ;
+        progress2 = (ProgressBar) findViewById(R.id.progressBar2) ;
 
         tv = (TextView) findViewById(R.id.textView3);
-        /*Button b2 = (Button) findViewById(R.id.button2);
-        b2.setOnClickListener(this);*/
+        Button b2 = (Button) findViewById(R.id.button2);
+        b2.setOnClickListener(this);
+        tv2 = (TextView) findViewById(R.id.textView2);
 
         Connection conn = null;
         Statement stmt = null;
@@ -126,6 +131,20 @@ public class Scorepage extends AppCompatActivity implements View.OnClickListener
 
     @Override
     public void onClick(View v) {
-
+        switch (v.getId()) {
+            case R.id.button2:
+                if (cont==1){
+                    tv2.setText("          Current Progress :");
+                    tv.setText("     45%");
+                    progress2.setProgress(45);
+                    cont=2;
+                }else {
+                    tv2.setText("               Your Score :");
+                    tv.setText("1000 Points");
+                    progress2.setProgress(1000/50);
+                    cont=1;
+                }
+                break;
+        }
     }
 }

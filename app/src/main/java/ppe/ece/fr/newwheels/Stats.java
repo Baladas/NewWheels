@@ -58,7 +58,7 @@ public class Stats extends AppCompatActivity {
             if (msg != "") {
                 textv.setText(msg);
             } else {
-                textv.setText("a");
+                textv.setText("Waiting for arduino");
             }
         }
     }

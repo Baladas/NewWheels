@@ -3957,11 +3957,11 @@ containing a value of this type.
         public static final int side_nav_bar=0x7f020184;
     }
     public static final class id {
-        public static final int Devices=0x7f0e012e;
-        public static final int Maps1=0x7f0e012b;
-        public static final int Score=0x7f0e012c;
-        public static final int Social=0x7f0e012d;
-        public static final int Stats=0x7f0e012f;
+        public static final int Devices=0x7f0e012f;
+        public static final int Maps1=0x7f0e012c;
+        public static final int Score=0x7f0e012d;
+        public static final int Social=0x7f0e012e;
+        public static final int Stats=0x7f0e0130;
         public static final int action0=0x7f0e010a;
         public static final int action_bar=0x7f0e00a9;
         public static final int action_bar_activity_content=0x7f0e0000;
@@ -3977,7 +3977,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0e00a6;
         public static final int action_mode_bar_stub=0x7f0e00a5;
         public static final int action_mode_close_button=0x7f0e008a;
-        public static final int action_settings=0x7f0e0130;
+        public static final int action_settings=0x7f0e0131;
         public static final int activity_chooser_view_content=0x7f0e008b;
         public static final int ad_container=0x7f0e00c4;
         public static final int ad_image_view=0x7f0e00c7;
@@ -4003,8 +4003,9 @@ containing a value of this type.
         public static final int book_now=0x7f0e0077;
         public static final int bottom=0x7f0e0030;
         public static final int button=0x7f0e00b9;
-        public static final int button3=0x7f0e0122;
-        public static final int button4=0x7f0e0123;
+        public static final int button2=0x7f0e0120;
+        public static final int button3=0x7f0e0123;
+        public static final int button4=0x7f0e0124;
         public static final int button5=0x7f0e00e3;
         public static final int buttonPanel=0x7f0e0092;
         public static final int button_0=0x7f0e00d0;
@@ -4095,7 +4096,7 @@ containing a value of this type.
         public static final int ifRoom=0x7f0e005b;
         public static final int image=0x7f0e008d;
         public static final int imageView=0x7f0e0109;
-        public static final int imageView3=0x7f0e0129;
+        public static final int imageView3=0x7f0e012a;
         public static final int index_entity_types=0x7f0e0065;
         public static final int info=0x7f0e0113;
         public static final int instant_message=0x7f0e0051;
@@ -4118,7 +4119,7 @@ containing a value of this type.
         public static final int loading_indicator=0x7f0e00c8;
         public static final int logo_only=0x7f0e007d;
         public static final int mImage1=0x7f0e00e5;
-        public static final int main=0x7f0e012a;
+        public static final int main=0x7f0e012b;
         public static final int map=0x7f0e00bd;
         public static final int match_global_nicknames=0x7f0e0066;
         public static final int match_parent=0x7f0e0076;
@@ -4204,7 +4205,7 @@ containing a value of this type.
         public static final int showCustom=0x7f0e001f;
         public static final int showHome=0x7f0e0020;
         public static final int showTitle=0x7f0e0021;
-        public static final int sign_in_button=0x7f0e0120;
+        public static final int sign_in_button=0x7f0e0121;
         public static final int slide=0x7f0e0041;
         public static final int snackbar_action=0x7f0e00e9;
         public static final int snackbar_text=0x7f0e00e8;
@@ -4233,15 +4234,15 @@ containing a value of this type.
         public static final int textSpacerNoButtons=0x7f0e009b;
         public static final int textTitle=0x7f0e00d5;
         public static final int textView=0x7f0e00b8;
-        public static final int textView10=0x7f0e0124;
+        public static final int textView10=0x7f0e0125;
         public static final int textView2=0x7f0e011d;
         public static final int textView3=0x7f0e011e;
-        public static final int textView4=0x7f0e0126;
+        public static final int textView4=0x7f0e0127;
         public static final int textView5=0x7f0e00e4;
-        public static final int textView6=0x7f0e0121;
-        public static final int textView7=0x7f0e0125;
-        public static final int textView8=0x7f0e0127;
-        public static final int textView9=0x7f0e0128;
+        public static final int textView6=0x7f0e0122;
+        public static final int textView7=0x7f0e0126;
+        public static final int textView8=0x7f0e0128;
+        public static final int textView9=0x7f0e0129;
         public static final int text_empty_message=0x7f0e00df;
         public static final int text_input_password_toggle=0x7f0e00ef;
         public static final int text_list_view=0x7f0e00dd;
