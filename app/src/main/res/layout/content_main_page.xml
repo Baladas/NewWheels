@@ -20,8 +20,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="32dp"
+        android:layout_marginBottom="25dp"
         android:background="@color/cast_intro_overlay_button_background_color"
+        android:fontFamily="serif"
         android:text="Take photo" />
 
     <TextView
@@ -30,16 +31,18 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:fontFamily="serif"
         android:text="Welcome"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="36sp" />
 
     <ImageView
         android:id="@+id/mImage1"
-        android:layout_width="300dp"
-        android:layout_height="600dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:src="@drawable/joelette"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
     
 </RelativeLayout>

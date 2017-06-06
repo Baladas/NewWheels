@@ -94,7 +94,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <activity android:name="ppe.ece.fr.newwheels.Chatmain" />
+        <activity android:name="ppe.ece.fr.newwheels.Chat_Room" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

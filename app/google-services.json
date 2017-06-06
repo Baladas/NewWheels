@@ -1,7 +1,9 @@
 {
   "project_info": {
     "project_number": "477053676305",
-    "project_id": "newwheels-160912"
+    "firebase_url": "https://newwheels-160912.firebaseio.com",
+    "project_id": "newwheels-160912",
+    "storage_bucket": "newwheels-160912.appspot.com"
   },
   "client": [
     {
@@ -12,6 +14,10 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "477053676305-euuhjft7bn2qbf7ppt5mbo4k027t28kh.apps.googleusercontent.com",
+          "client_type": 3
+        },
         {
           "client_id": "477053676305-ebr5fuq5top7lst52lgpc3djlt3tf32j.apps.googleusercontent.com",
           "client_type": 3
@@ -35,11 +41,16 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477053676305-euuhjft7bn2qbf7ppt5mbo4k027t28kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
-          "status": 1
+          "status": 2
         }
       }
     }

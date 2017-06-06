@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:2:1-82:12
+ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:2:1-85:12
 	package
 		ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml
@@ -100,7 +100,7 @@ ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManife
 	android:name
 		ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:25:19-63
 application
-ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:27:5-80:19
+ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:27:5-83:19
 MERGED from [com.android.support:design:24.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.2.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.1\AndroidManifest.xml:23:5-27:19
@@ -202,6 +202,14 @@ activity#ppe.ece.fr.newwheels.Stats
 ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:72:9-78:20
 	android:name
 		ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:73:13-54
+activity#ppe.ece.fr.newwheels.Chatmain
+ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:80:9-46
+	android:name
+		ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:80:19-43
+activity#ppe.ece.fr.newwheels.Chat_Room
+ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:82:9-46
+	android:name
+		ADDED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml:82:19-44
 uses-sdk
 INJECTED from C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Gilles\Documents\GitHub\NewWheels\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
