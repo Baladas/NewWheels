@@ -5,15 +5,389 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc3f97d6-ef69-4c26-9f17-d02a40ec0fcf" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/ppe/ece/fr/newwheels/ExampleInstrumentedTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/ppe/ece/fr/newwheels/test/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/ppe/ece/fr/newwheels/test/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/ppe/ece/fr/newwheels/test/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/androidTest/debug/ppe/ece/fr/newwheels/test/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Stats$SocketThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/test/debug/ppe/ece/fr/newwheels/ExampleUnitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/FabricCommunicationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/FabricConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/FabricStateResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/HashShardMapping$ReverseShardIndexSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/HashShardMapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/RangeShardMapping$RangeShardIndexSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/RangeShardMapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/Response.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/Server.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ServerGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ServerMode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ServerRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardIndex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardMapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardMappingFactory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardMappingFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/ShardingType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/hibernate/FabricMultiTenantConnectionProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/ErrorReportingExceptionInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/FabricMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/FabricMySQLConnectionProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/FabricMySQLConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/FabricMySQLDataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/FabricMySQLDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/jdbc/JDBC4FabricMySQLConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/AuthenticatedXmlRpcMethodCaller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/DigestAuthentication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/InternalXmlRpcMethodCaller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/ResultSetParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/XmlRpcClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/proto/xmlrpc/XmlRpcMethodCaller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Data.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Fault.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Member.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/MethodCall.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/MethodResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Param.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Params.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/ResponseParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Struct.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/base/Value.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/fabric/xmlrpc/exceptions/MySQLFabricException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/AbandonedConnectionCleanupThread$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/AbandonedConnectionCleanupThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/AssertionFailedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/AuthenticationPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/BalanceStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/BestResponseTimeBalanceStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Blob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/BlobFromLocator$LocatorInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/BlobFromLocator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Buffer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/BufferRow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ByteArrayRow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CacheAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CacheAdapterFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CachedResultSetMetaData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CallableStatement$CallableStatementParam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CallableStatement$CallableStatementParamInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CallableStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CharsetMapping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Clob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Collation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CommunicationsException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/CompressedInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Connection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionFeatureNotAvailableException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionGroupManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$CompoundCacheKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$ExceptionInterceptorChain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl$NetworkTimeoutSetter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionLifecycleInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$BooleanConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$ConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$IntegerConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$LongConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$MemorySizeConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$StringConnectionProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl$XmlMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ConnectionPropertiesTransform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$ComparableWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$IndexMetaDataKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$IteratorWithCleanup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$LocalAndReferencedColumns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$ProcedureType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$ResultSetIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$SingleStringIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$TableMetaDataKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$TableType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData$TypeDescriptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema$JDBC4FunctionConstant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/DocsConnectionPropsHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Driver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/EscapeProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/EscapeProcessorResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/EscapeTokenizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ExceptionInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ExportControlled$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ExportControlled$StandardSSLSocketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ExportControlled.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Extension.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/FailoverConnectionProxy$FailoverJdbcInterfaceProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/FailoverConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Field.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/IterateBlock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42CallableStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42Helper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42PreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42ResultSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42ServerPreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC42UpdatableResultSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4CallableStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4ClientInfoProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4ClientInfoProviderSP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4CommentClientInfoProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4Connection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4DatabaseMetaData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4MultiHostMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4MySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4MysqlSQLXML$SimpleSaxToReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4MysqlSQLXML.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4NClob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4PreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4PreparedStatementHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4ReplicationMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4ResultSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4ServerPreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/JDBC4UpdatableResultSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LicenseConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalanceExceptionChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalancedConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalancedConnectionProxy$NullLoadBalancedConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalancedConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/LoadBalancedMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Messages.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MiniAdmin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MultiHostConnectionProxy$JdbcInterfaceProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MultiHostConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MultiHostMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlCharset.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlDataTruncation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlDefs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlErrorNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlIO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlParameterMetadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/MysqlSavepoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NamedPipeSocketFactory$NamedPipeSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NamedPipeSocketFactory$RandomAccessFileOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NamedPipeSocketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NetworkResources.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NoSubInterceptorWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NonRegisteringDriver$ConnectionPhantomReference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NonRegisteringDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NonRegisteringReplicationDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NotImplemented.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/NotUpdatable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/OperationNotSupportedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/OutputStreamWatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PacketTooBigException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ParameterBindings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PerConnectionLRUFactory$PerConnectionLRU.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PerConnectionLRUFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PerVmServerConfigCacheFactory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PerVmServerConfigCacheFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PingTarget.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$AppendingBatchVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$BatchParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$BatchVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$EmulatedPreparedStatementBindings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$EndPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement$ParseInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/PreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ProfilerEventHandlerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/RandomBalanceStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationConnectionGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationConnectionGroupManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationConnectionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ReplicationMySQLConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ResultSetImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ResultSetInternalMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ResultSetMetaData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ResultSetRow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/RowData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/RowDataCursor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/RowDataDynamic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/RowDataStatic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SQLError.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Security.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SequentialBalanceStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ServerPreparedStatement$BatchedBindValues.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ServerPreparedStatement$BindValue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/ServerPreparedStatement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SingleByteCharsetConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SocketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SocketMetadata$Helper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SocketMetadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/SocksProxySocketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StandardSocketFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Statement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StatementImpl$CancelTask$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StatementImpl$CancelTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StatementImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StatementInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StatementInterceptorV2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StreamingNotifiable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StringUtils$SearchMode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/StringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/TimeUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/UpdatableResultSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Util$RandStructcture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/WatchableOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/WatchableWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/Wrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/WriterWatcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/authentication/Sha256PasswordPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLDataException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLNonTransientException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLTimeoutException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/MySQLTransientException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLQueryInterruptedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC42CallableStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC42PreparedStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlXAException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/MysqlXid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/StatementWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/WrapperBase$ConnectionErrorFiringInvocationHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jdbc2/optional/WrapperBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jmx/ReplicationGroupManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/jmx/ReplicationGroupManagerMBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/Jdk14Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/Log.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/LogFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/LogUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/NullLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/Slf4JLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/log/StandardLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/profiler/ProfilerEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/profiler/ProfilerEventHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/Base64Decoder$IntWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/Base64Decoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/BaseBugReport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/ErrorMappingsDocGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/LRUCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/PropertiesDocGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/ReadAheadInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/ResultSetUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/ServerController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/TimezoneDump.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/com/mysql/jdbc/util/VersionFSHierarchyMaker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/mysql-connector-java-5.1.41-bin.jar_6zh40h6zmhl1stirlrw56we37/org/gjt/mm/mysql/Driver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-12-38-29-877.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/mediarouter/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/DeviceList.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/DeviceList.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/MainPage.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/MainPage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$integer.class" />
@@ -26,26 +400,46 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Scorepage.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Scorepage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Social.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Social.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Stats$SocketThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Stats$SocketThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Stats.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ppe/ece/fr/newwheels/Stats.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.2.1/jars/classes.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/10.2.1/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.2.1/jars/classes.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/10.2.1/jars/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/ptRNIB74NcBVCaVmMckOkaP3I_g=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/ptRNIB74NcBVCaVmMckOkaP3I_g=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/componentClasses.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/componentClasses.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/mediarouter/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/ppe/ece/fr/newwheels/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/ppe/ece/fr/newwheels/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/score_page.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/score_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/content_main_page.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/content_main_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/social_page.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/social_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Scorepage.java" afterPath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Scorepage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/google-services.json" afterPath="$PROJECT_DIR$/app/google-services.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java" afterPath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Stats.java" afterPath="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Stats.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/score_page.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/score_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/social_page.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/social_page.xml" />
     </list>
     <ignored path="NewWheels.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,11 +484,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stats.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Stats.java">
+      <file leaf-file-name="Social.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+            <state relative-caret-position="32">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2218,7 +2612,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\Gilles\Documents\GitHub\NewWheels" value="4474276990530" />
+        <entry key="C:\Users\Gilles\Documents\GitHub\NewWheels" value="4484121481369" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2552,22 +2946,29 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Maps.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/DeviceList.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/BluetoothArduinoHelper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/MainPage.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/stats_page.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/social_page.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/score_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Scorepage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/DeviceList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Bluetooth.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/chatco.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Chatmain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_room.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Chat_Room.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/social_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/EditProductActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/EditPlayerActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Stats.java" />
       </list>
     </option>
@@ -2622,6 +3023,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane />
       </pane>
@@ -2632,6 +3035,16 @@
               <option name="myItemId" value="NewWheels" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewWheels" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2640,11 +3053,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2654,45 +3063,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWheels" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="newwheels" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWheels" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2702,7 +3081,7 @@
     <property name="device.picker.selection" value="06157df69c9a0532" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="android.project.structure.last.selected" value="Project" />
+    <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
@@ -2710,7 +3089,11 @@
       <recent name="C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\java\ppe\ece\fr\newwheels" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\res\layout" />
       <recent name="C:\Users\Gilles\Documents\GitHub\NewWheels\app\src\main\java\ppe\ece\fr\newwheels" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ppe.ece.fr.newwheels" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -3263,31 +3646,32 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718122" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14750378" sideWeight="0.47630924" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14750378" sideWeight="0.47630924" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.49328858" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14750378" sideWeight="0.5067114" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32753405" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -3342,117 +3726,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -3471,23 +3751,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java">
@@ -3498,13 +3778,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -3527,26 +3807,6 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/LogWrapper.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/DeviceListActivity.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_led_control.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/PermissionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -3554,142 +3814,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/DeviceList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1070">
-          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/BluetoothArduinoHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_map_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="58" column="95" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/social_page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/stats_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="48" column="60" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -3703,48 +3851,248 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Scorepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="144" column="26" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_device_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Bluetooth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="922" column="55" selection-start-line="922" selection-start-column="55" selection-end-line="922" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chatco.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="81" column="45" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main_page.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_page_drawer.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/DeviceList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/score_page.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Scorepage.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="144" column="26" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="26" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/social_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/stats_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/edit_player.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_room.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/maps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="60" column="87" selection-start-line="60" selection-start-column="87" selection-end-line="60" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/BluetoothArduinoHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-939">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Stats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+        <state relative-caret-position="440">
+          <caret line="193" column="35" selection-start-line="193" selection-start-column="35" selection-end-line="193" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Chatmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Chat_Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main_page.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/EditPlayerActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ppe/ece/fr/newwheels/Social.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
