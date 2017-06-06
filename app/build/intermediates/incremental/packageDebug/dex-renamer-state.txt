@@ -1,7 +1,7 @@
-#Fri Feb 17 15:27:43 CET 2017
-base.0=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7445829a0148ddff4ac2ae4fc385ca5941bcf20b
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81cc3341ade8b258af87264afb65043497fc15be\\classes.dex
-base.1=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_81cc3341ade8b258af87264afb65043497fc15be
-file.0=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7445829a0148ddff4ac2ae4fc385ca5941bcf20b\\classes.dex
+#Fri Apr 07 23:05:57 CEST 2017
+base.0=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=C\:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex

@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
     },
@@ -44,8 +48,24 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score_page.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\score_page.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -64,16 +84,28 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\nav_header_main_page.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_intro_overlay.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
@@ -120,6 +152,14 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_page.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\social_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
     },
@@ -134,6 +174,10 @@
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_page.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
@@ -152,6 +196,14 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_page.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\stats_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
     },
@@ -168,8 +220,24 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main_page.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\content_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -188,6 +256,10 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
@@ -204,16 +276,20 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -222,5 +298,9 @@
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_mini_controller.xml"
     }
 ]
