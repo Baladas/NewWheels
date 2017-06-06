@@ -4,10 +4,6 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_player.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\edit_player.xml"
-    },
-    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_help_text.xml"
     },
@@ -28,20 +24,20 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatco.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\chatco.xml"
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chatco.xml",
+        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\chatco.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
@@ -108,10 +104,6 @@
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_player.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\add_player.xml"
-    },
-    {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
     },
@@ -150,10 +142,6 @@
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_player.xml",
-        "source": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\src\\main\\res\\layout\\all_player.xml"
     },
     {
         "merged": "C:\\Users\\Gilles\\Documents\\GitHub\\NewWheels\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",

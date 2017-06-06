@@ -33,6 +33,7 @@ public class Social extends AppCompatActivity implements View.OnClickListener {
         findViewById(R.id.sign_in_button).setOnClickListener(this);
         findViewById(R.id.button3).setOnClickListener(this);
         findViewById(R.id.button4).setOnClickListener(this);
+        findViewById(R.id.button6).setOnClickListener(this);
 
     }
 
@@ -58,6 +59,10 @@ public class Social extends AppCompatActivity implements View.OnClickListener {
             case R.id.button4:
                 Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("fb://facewebmodal/f?href=https://www.facebook.com/NewWheels-134205607115288/"));
                 startActivity(intent4);
+                break;
+            case R.id.button6:
+                Intent intent5 = new Intent(this, Chatmain.class);
+                startActivity(intent5);
                 break;
         }
     }
